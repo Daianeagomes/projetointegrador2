@@ -1,4 +1,5 @@
-#Projeto Integrador para Engenharia de Computação II
+Projeto Integrador para Engenharia de Computação II
+
 InfoPet - Desenvolvimento de site para gestão e controle de informações de animais acolhidos por abrigo.
 
 
